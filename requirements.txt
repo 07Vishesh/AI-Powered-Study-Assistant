@@ -1,0 +1,22 @@
+streamlit>=1.45.0
+# LlamaIndex
+llama-index>=0.12.0
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+# Embeddings
+sentence-transformers
+torch
+transformers
+# Vector Database
+faiss-cpu
+# Document Readers
+pymupdf
+python-docx
+docx2txt
+# OpenRouter
+openai>=1.0.0
+python-dotenv>=1.0.0
+# Utilities
+numpy
+pandas
